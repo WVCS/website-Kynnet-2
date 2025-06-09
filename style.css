@@ -1,3 +1,31 @@
-body {
+h1 {
+  color: white;
+  font-size: 30px;
+}
+h1:hover {
+  color: blue;
+}
 
+tab {
+  padding: 5px 30px 5px;
+  font-size: 20px;
+  color: orange;
+}
+tab:hover{
+  color:blue;
+}
+
+body {
+  background: #89909f;
+  padding: 3rem 0 0 3rem;
+  font-size: 12px;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
 }
