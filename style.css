@@ -1,14 +1,17 @@
 h1 {
   color: white;
-  font-size: 30px;
+  font-size: 100px;
 }
 h1:hover {
   color: blue;
 }
+div {
+  padding: 50px 50px 50px;
+}
 
 tab {
-  padding: 5px 30px 5px;
-  font-size: 20px;
+  padding: 20px 50px 20px;
+  font-size: 50px;
   color: orange;
 }
 tab:hover{
@@ -16,7 +19,7 @@ tab:hover{
 }
 
 body {
-  background: #89909f;
+  background: grey;
   padding: 3rem 0 0 3rem;
   font-size: 12px;
   height: 100vh;
